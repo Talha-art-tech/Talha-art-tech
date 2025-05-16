@@ -37,12 +37,13 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?Talha-art-tech&show_icons=true&theme=radical" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Talha-art-tech&show_icons=true&theme=radical" alt="GitHub stats" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" alt="GitHub streak" />
 </p>
+
 
 ---
 
