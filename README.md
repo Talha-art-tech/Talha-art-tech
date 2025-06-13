@@ -50,7 +50,8 @@
 ### 📫 Let's Connect!
 - 🌐 Portfolio: [yourportfolio.com](https://yourportfolio.com)
 - 📧 Email: [talha.ali3834@gmail.com](mailto:talha.ali3834@gmail.com)
-- 💼 LinkedIn: [linkedin.com/in/s-m-talha-ali-hashmi-b7b178213)
+- 💼 LinkedIn: linkedin.com/in/s-m-talha-ali-hashmi-b7b178213
+
 
 ---
 
